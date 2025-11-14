@@ -1,0 +1,2 @@
+# Proggetto_CasaDomotica_Pellizari_Spada_sora
+Proggetto della casa Domotica
